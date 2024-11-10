@@ -21,7 +21,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="bg-blue-100 py-16 text-center" id="home">
         <div className="container mx-auto">
-          <h2 className="text-4xl font-semibold mb-4">Hello, I'm Sharjeel Ahmed</h2>
+          <h2 className="text-4xl font-semibold mb-4">Hello, I&apos;m Sharjeel Ahmed</h2>
           <p className="text-xl mb-6">I build modern web applications with Typescript, HTML and CSS.</p>
           <Link href="#projects" className="bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700">
             View My Projects
@@ -70,7 +70,7 @@ export default function Home() {
       <section className="bg-white py-16" id="contact">
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-semibold mb-6">Contact Me</h2>
-          <p className="text-lg mb-6">Feel free to reach out if you'd like to collaborate or discuss a project!</p>
+          <p className="text-lg mb-6">Feel free to reach out if you&apos;d like to collaborate or discuss a project!</p>
           <form className="max-w-xl mx-auto space-y-6">
             <input
               type="text"
